@@ -1,2 +1,2 @@
-# CustomProgressView
-custom progressview
+# Demo
+![image](/screenshot/cusprogress.gif)
